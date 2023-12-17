@@ -1,0 +1,15 @@
+Database Name:quizdb
+
+For Testing:
+Admin Info:
+Email: admin@admin.com
+Password: 12345678
+
+Student with Quiz done:
+Email: safaa@gmail.com
+Password: 12345678
+
+Student:
+Email: safaaTest@hotmail.com
+Password: 12345678
+
